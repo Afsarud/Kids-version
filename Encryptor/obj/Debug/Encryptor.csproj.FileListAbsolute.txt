@@ -1,0 +1,4 @@
+G:\Kids Version\Language.Discovery\Encryptor\obj\Debug\Encryptor.csprojAssemblyReference.cache
+G:\Kids Version\Language.Discovery\Encryptor\obj\Debug\Encryptor.Form1.resources
+G:\Kids Version\Language.Discovery\Encryptor\obj\Debug\Encryptor.Properties.Resources.resources
+G:\Kids Version\Language.Discovery\Encryptor\obj\Debug\Encryptor.csproj.GenerateResource.cache
