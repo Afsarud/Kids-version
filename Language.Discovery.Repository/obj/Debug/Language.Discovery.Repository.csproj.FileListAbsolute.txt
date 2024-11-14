@@ -1,0 +1,12 @@
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\bin\Debug\Language.Discovery.Repository.dll
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\bin\Debug\Language.Discovery.Repository.pdb
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\bin\Debug\Language.Discovery.Entity.dll
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\bin\Debug\Newtonsoft.Json.dll
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\bin\Debug\RestSharp.dll
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\bin\Debug\Language.Discovery.Entity.pdb
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\bin\Debug\Newtonsoft.Json.xml
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\bin\Debug\RestSharp.xml
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\obj\Debug\Language.Discovery.Repository.csprojAssemblyReference.cache
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\obj\Debug\Language.Discovery.Repository.csproj.CopyComplete
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\obj\Debug\Language.Discovery.Repository.dll
+G:\Kids Version\Language.Discovery\Language.Discovery.Repository\obj\Debug\Language.Discovery.Repository.pdb

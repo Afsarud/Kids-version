@@ -1,0 +1,7 @@
+G:\Kids Version\Language.Discovery\Language.Discovery.Entity\bin\Debug\Language.Discovery.Entity.dll
+G:\Kids Version\Language.Discovery\Language.Discovery.Entity\bin\Debug\Language.Discovery.Entity.pdb
+G:\Kids Version\Language.Discovery\Language.Discovery.Entity\bin\Debug\Newtonsoft.Json.dll
+G:\Kids Version\Language.Discovery\Language.Discovery.Entity\bin\Debug\Newtonsoft.Json.xml
+G:\Kids Version\Language.Discovery\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.csproj.CopyComplete
+G:\Kids Version\Language.Discovery\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.dll
+G:\Kids Version\Language.Discovery\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.pdb
