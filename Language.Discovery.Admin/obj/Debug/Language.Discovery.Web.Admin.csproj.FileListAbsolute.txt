@@ -32,3 +32,37 @@ G:\Kids Version\Language.Discovery\Language.Discovery.Admin\obj\Debug\Language.D
 G:\Kids Version\Language.Discovery\Language.Discovery.Admin\obj\Debug\Language.Discovery.Admin.dll
 G:\Kids Version\Language.Discovery\Language.Discovery.Admin\obj\Debug\Language.Discovery.Admin.pdb
 G:\Kids Version\Language.Discovery\Language.Discovery.Admin\obj\Debug\Language.Discovery.Web.Admin.csprojAssemblyReference.cache
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Web1.config
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Web1.Debug.config
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Web1.Release.config
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Language.Discovery.Admin.dll.config
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Language.Discovery.Admin.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Language.Discovery.Admin.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Antlr3.Runtime.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\AspNet.ScriptManager.jQuery.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\DocumentFormat.OpenXml.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\itextsharp.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Language.Discovery.Entity.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Language.Discovery.Repository.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Microsoft.ReportViewer.Common.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Microsoft.ReportViewer.WebForms.DLL
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Microsoft.ScriptManager.WebForms.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Microsoft.Web.Infrastructure.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\SpreadsheetLight.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\System.Web.Optimization.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\WebGrease.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\RestSharp.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Language.Discovery.Entity.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Language.Discovery.Repository.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\System.Web.Optimization.xml
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\bin\RestSharp.xml
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\obj\Debug\Language.Discovery.Web.Admin.csproj.ResolveComReference.cache
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\obj\Debug\Language.Discovery.Web.Admin.csproj.CopyComplete
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\obj\Debug\Language.Discovery.Admin.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\obj\Debug\Language.Discovery.Admin.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Admin\obj\Debug\Language.Discovery.Web.Admin.csprojAssemblyReference.cache

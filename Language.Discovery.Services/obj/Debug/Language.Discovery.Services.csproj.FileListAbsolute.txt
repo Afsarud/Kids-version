@@ -13,3 +13,18 @@ G:\Kids Version\Language.Discovery\Language.Discovery.Services\obj\Debug\Languag
 G:\Kids Version\Language.Discovery\Language.Discovery.Services\obj\Debug\Language.Discovery.Services.csproj.CopyComplete
 G:\Kids Version\Language.Discovery\Language.Discovery.Services\obj\Debug\Language.Discovery.Services.dll
 G:\Kids Version\Language.Discovery\Language.Discovery.Services\obj\Debug\Language.Discovery.Services.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Language.Discovery.Services.dll.config
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Language.Discovery.Services.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Language.Discovery.Services.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Language.Discovery.Entity.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Language.Discovery.Repository.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Newtonsoft.Json.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\RestSharp.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Language.Discovery.Entity.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Language.Discovery.Repository.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\Newtonsoft.Json.xml
+G:\LanguageDiscoveryKids\Language.Discovery.Services\bin\RestSharp.xml
+G:\LanguageDiscoveryKids\Language.Discovery.Services\obj\Debug\Language.Discovery.Services.csprojAssemblyReference.cache
+G:\LanguageDiscoveryKids\Language.Discovery.Services\obj\Debug\Language.Discovery.Services.csproj.CopyComplete
+G:\LanguageDiscoveryKids\Language.Discovery.Services\obj\Debug\Language.Discovery.Services.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Services\obj\Debug\Language.Discovery.Services.pdb

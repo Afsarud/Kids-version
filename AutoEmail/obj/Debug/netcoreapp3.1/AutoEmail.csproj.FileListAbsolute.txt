@@ -37,3 +37,42 @@ G:\Kids Version\Language.Discovery\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.c
 G:\Kids Version\Language.Discovery\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.dll
 G:\Kids Version\Language.Discovery\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.pdb
 G:\Kids Version\Language.Discovery\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.csprojAssemblyReference.cache
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\App.config
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\AutoEmail.exe
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\template\ScheduleTemplate.en-US.html
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\AutoEmail.dll.config
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\AutoEmail.deps.json
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\AutoEmail.runtimeconfig.json
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\AutoEmail.runtimeconfig.dev.json
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\AutoEmail.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\AutoEmail.pdb
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\Language.Discovery.Entity.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\Language.Discovery.Repository.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\Language.Discovery.Entity.pdb
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\Language.Discovery.Repository.pdb
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.xml
+G:\LanguageDiscoveryKids\AutoEmail\bin\Debug\netcoreapp3.1\RestSharp.xml
+G:\LanguageDiscoveryKids\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.csprojAssemblyReference.cache
+G:\LanguageDiscoveryKids\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.AssemblyInfoInputs.cache
+G:\LanguageDiscoveryKids\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.AssemblyInfo.cs
+G:\LanguageDiscoveryKids\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.csproj.CopyComplete
+G:\LanguageDiscoveryKids\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.dll
+G:\LanguageDiscoveryKids\AutoEmail\obj\Debug\netcoreapp3.1\AutoEmail.pdb

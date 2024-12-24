@@ -5,3 +5,11 @@ G:\Kids Version\Language.Discovery\Language.Discovery.Entity\bin\Debug\Newtonsof
 G:\Kids Version\Language.Discovery\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.csproj.CopyComplete
 G:\Kids Version\Language.Discovery\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.dll
 G:\Kids Version\Language.Discovery\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Entity\bin\Debug\Language.Discovery.Entity.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Entity\bin\Debug\Language.Discovery.Entity.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Entity\bin\Debug\Newtonsoft.Json.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Entity\bin\Debug\Newtonsoft.Json.xml
+G:\LanguageDiscoveryKids\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.csproj.CopyComplete
+G:\LanguageDiscoveryKids\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.dll
+G:\LanguageDiscoveryKids\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.pdb
+G:\LanguageDiscoveryKids\Language.Discovery.Entity\obj\Debug\Language.Discovery.Entity.csprojAssemblyReference.cache

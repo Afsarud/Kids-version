@@ -7,3 +7,12 @@ G:\Kids Version\Language.Discovery\Language.DB\obj\Debug\postdeploy.sql
 G:\Kids Version\Language.Discovery\Language.DB\obj\Debug\predeploy.sql
 G:\Kids Version\Language.Discovery\Language.DB\obj\Debug\Language.DB.dll
 G:\Kids Version\Language.Discovery\Language.DB\obj\Debug\Language.DB.pdb
+G:\LanguageDiscoveryKids\Language.DB\bin\Debug\Language.DB.dacpac
+G:\LanguageDiscoveryKids\Language.DB\bin\Debug\Language.DB.dll
+G:\LanguageDiscoveryKids\Language.DB\bin\Debug\Language.DB.pdb
+G:\LanguageDiscoveryKids\Language.DB\obj\Debug\Model.xml
+G:\LanguageDiscoveryKids\Language.DB\obj\Debug\refactor.xml
+G:\LanguageDiscoveryKids\Language.DB\obj\Debug\postdeploy.sql
+G:\LanguageDiscoveryKids\Language.DB\obj\Debug\predeploy.sql
+G:\LanguageDiscoveryKids\Language.DB\obj\Debug\Language.DB.dll
+G:\LanguageDiscoveryKids\Language.DB\obj\Debug\Language.DB.pdb

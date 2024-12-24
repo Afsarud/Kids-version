@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Kids Version\\Language.Discovery\\AutoEmail\\AutoEmail.csproj": {}
+    "G:\\LanguageDiscoveryKids\\AutoEmail\\AutoEmail.csproj": {}
   },
   "projects": {
-    "G:\\Kids Version\\Language.Discovery\\AutoEmail\\AutoEmail.csproj": {
+    "G:\\LanguageDiscoveryKids\\AutoEmail\\AutoEmail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Kids Version\\Language.Discovery\\AutoEmail\\AutoEmail.csproj",
+        "projectUniqueName": "G:\\LanguageDiscoveryKids\\AutoEmail\\AutoEmail.csproj",
         "projectName": "AutoEmail",
-        "projectPath": "G:\\Kids Version\\Language.Discovery\\AutoEmail\\AutoEmail.csproj",
+        "projectPath": "G:\\LanguageDiscoveryKids\\AutoEmail\\AutoEmail.csproj",
         "packagesPath": "C:\\Users\\Cliqpack\\.nuget\\packages\\",
-        "outputPath": "G:\\Kids Version\\Language.Discovery\\AutoEmail\\obj\\",
+        "outputPath": "G:\\LanguageDiscoveryKids\\AutoEmail\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj": {
-                "projectPath": "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj"
+              "G:\\LanguageDiscoveryKids\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj": {
+                "projectPath": "G:\\LanguageDiscoveryKids\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj"
               },
-              "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj": {
-                "projectPath": "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj"
+              "G:\\LanguageDiscoveryKids\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj": {
+                "projectPath": "G:\\LanguageDiscoveryKids\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj"
               }
             }
           }
@@ -72,28 +72,28 @@
         }
       }
     },
-    "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj": {
+    "G:\\LanguageDiscoveryKids\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj",
+        "projectUniqueName": "G:\\LanguageDiscoveryKids\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj",
         "projectName": "Language.Discovery.Entity",
-        "projectPath": "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj"
+        "projectPath": "G:\\LanguageDiscoveryKids\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj": {
+    "G:\\LanguageDiscoveryKids\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj",
+        "projectUniqueName": "G:\\LanguageDiscoveryKids\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj",
         "projectName": "Language.Discovery.Repository",
-        "projectPath": "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj",
+        "projectPath": "G:\\LanguageDiscoveryKids\\Language.Discovery.Repository\\Language.Discovery.Repository.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj": {
-                "projectPath": "G:\\Kids Version\\Language.Discovery\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj"
+              "G:\\LanguageDiscoveryKids\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj": {
+                "projectPath": "G:\\LanguageDiscoveryKids\\Language.Discovery.Entity\\Language.Discovery.Entity.csproj"
               }
             }
           }

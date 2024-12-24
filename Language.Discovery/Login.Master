@@ -37,14 +37,16 @@
         
         <div class="form-inline">
             <div class="text-right collapse navbar-collapse">
-                <span>Copyright &copy; 2018-2022 Language Discovery</span> 
+                <span>Copyright &copy; 2020-2025 Language Discovery</span> 
             </div>
         </div>
     </nav>
     <form id="form1" runat="server">
         <asp:ContentPlaceHolder runat="server" ID="MainContent" />
     </form>
+
     <div class="container page-footer">
+		<br/>
         <div class="row mb-3 mt-4">
             <div class="col-md-1 col-sm-auto"></div>
             <div class="col-md-5 col-sm-12 text-center mb-3">
@@ -66,10 +68,10 @@
             </div>
             <div class="col-md-1 col-sm-auto"></div>
         </div>
-        <div class="row">
+        <div class="row" style="margin-top: -28px;">
             <div class="col-9">
                 <div class="">
-                    <p>Patented/Patent Pending  Copyright 2018-2022 Language Discovery Ltd. All Rights Reserved.</p>
+                    <p>Patented. Copyright 2020-2025 Language Discovery. All Rights Reserved.</p>
                 </div>
             </div>
             <div class="col-3">
